@@ -1,0 +1,24 @@
+Customer: Customer(cart=Cart(cart=[Product(id=204, name=Vegetables 4, price=77.0, categoryID=2, quantity=0), Product(id=104, name=Fruit 4, price=12.0, categoryID=1, quantity=0), Product(id=104, name=Fruit 4, price=12.0, categoryID=1, quantity=0), Product(id=203, name=Vegetables 3, price=19.0, categoryID=2, quantity=0)]), checkoutTime=3052)
+Cart: Cart(cart=[Product(id=204, name=Vegetables 4, price=77.0, categoryID=2, quantity=0), Product(id=104, name=Fruit 4, price=12.0, categoryID=1, quantity=0), Product(id=104, name=Fruit 4, price=12.0, categoryID=1, quantity=0), Product(id=203, name=Vegetables 3, price=19.0, categoryID=2, quantity=0)])
+Total Cost: 170.0
+----------------
+Customer: Customer(cart=Cart(cart=[Product(id=101, name=Fruit 1, price=85.0, categoryID=1, quantity=0)]), checkoutTime=4431)
+Cart: Cart(cart=[Product(id=101, name=Fruit 1, price=85.0, categoryID=1, quantity=0)])
+Total Cost: 170.0
+----------------
+Customer: Customer(cart=Cart(cart=[Product(id=303, name=Diary 3, price=86.0, categoryID=3, quantity=0), Product(id=104, name=Fruit 4, price=12.0, categoryID=1, quantity=0)]), checkoutTime=4307)
+Cart: Cart(cart=[Product(id=303, name=Diary 3, price=86.0, categoryID=3, quantity=0), Product(id=104, name=Fruit 4, price=12.0, categoryID=1, quantity=0)])
+Total Cost: 282.0
+----------------
+Customer: Customer(cart=Cart(cart=[Product(id=102, name=Fruit 2, price=68.0, categoryID=1, quantity=0), Product(id=205, name=Vegetables 5, price=56.0, categoryID=2, quantity=0), Product(id=202, name=Vegetables 2, price=104.0, categoryID=2, quantity=0)]), checkoutTime=4547)
+Cart: Cart(cart=[Product(id=102, name=Fruit 2, price=68.0, categoryID=1, quantity=0), Product(id=205, name=Vegetables 5, price=56.0, categoryID=2, quantity=0), Product(id=202, name=Vegetables 2, price=104.0, categoryID=2, quantity=0)])
+Total Cost: 524.0
+----------------
+Customer: Customer(cart=Cart(cart=[Product(id=201, name=Vegetables 1, price=84.0, categoryID=2, quantity=0), Product(id=101, name=Fruit 1, price=85.0, categoryID=1, quantity=0), Product(id=304, name=Diary 4, price=48.0, categoryID=3, quantity=0), Product(id=302, name=Diary 2, price=96.0, categoryID=3, quantity=0), Product(id=302, name=Diary 2, price=96.0, categoryID=3, quantity=0)]), checkoutTime=2697)
+Cart: Cart(cart=[Product(id=201, name=Vegetables 1, price=84.0, categoryID=2, quantity=0), Product(id=101, name=Fruit 1, price=85.0, categoryID=1, quantity=0), Product(id=304, name=Diary 4, price=48.0, categoryID=3, quantity=0), Product(id=302, name=Diary 2, price=96.0, categoryID=3, quantity=0), Product(id=302, name=Diary 2, price=96.0, categoryID=3, quantity=0)])
+Total Cost: 759.0
+----------------
+Customer: Customer(cart=Cart(cart=[Product(id=105, name=Fruit 5, price=50.0, categoryID=1, quantity=0), Product(id=304, name=Diary 4, price=15.0, categoryID=3, quantity=0), Product(id=205, name=Vegetables 5, price=56.0, categoryID=2, quantity=0), Product(id=101, name=Fruit 1, price=103.0, categoryID=1, quantity=0), Product(id=305, name=Diary 5, price=88.0, categoryID=3, quantity=0)]), checkoutTime=2410)
+Cart: Cart(cart=[Product(id=105, name=Fruit 5, price=50.0, categoryID=1, quantity=0), Product(id=304, name=Diary 4, price=15.0, categoryID=3, quantity=0), Product(id=205, name=Vegetables 5, price=56.0, categoryID=2, quantity=0), Product(id=101, name=Fruit 1, price=103.0, categoryID=1, quantity=0), Product(id=305, name=Diary 5, price=88.0, categoryID=3, quantity=0)])
+Total Cost: 480.0
+----------------
